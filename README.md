@@ -2,7 +2,7 @@
 
 [![Happy Horse 1.0](https://img.shields.io/badge/Happy%20Horse%201.0-%231%20Open%20Source%20AI%20Video%20Generator-blue)](https://happy-horse.art)
 
-> Curated collection of the **best high-score prompts** for [Happy Horse 1.0](https://happy-horse.art) — the #1 Open Source AI Video Generator.
+> Curated collection of the **[best high-score prompts for Happy Horse 1.0](https://happy-horse.art/showcase)** — the #1 Open Source AI Video Generator.
 
 A showcase of cinematic, anime, realism, sci-fi, action and creative prompts with **clickable video previews** (opens in new tab).
 
