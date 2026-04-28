@@ -8,7 +8,7 @@ A showcase of cinematic, anime, realism, sci-fi, action and creative prompts wit
 
 ⭐ **Star this repo** if these prompts help you create amazing videos!
 
-**[https://happy-horse.art](Experience Happy Horse Now! - HappyHorse)**
+**[Experience Happy Horse Now! - HappyHorse](https://happy-horse.art)**
 
 ---
 
